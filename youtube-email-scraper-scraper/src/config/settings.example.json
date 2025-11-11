@@ -1,0 +1,6 @@
+{
+    "google_search_url": "https://www.google.com/search?q=site:youtube.com",
+    "output_format": "csv",
+    "email_domain": "gmail.com",
+    "scrape_delay": 2
+}
