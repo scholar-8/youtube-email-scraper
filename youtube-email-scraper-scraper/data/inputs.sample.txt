@@ -1,0 +1,3 @@
+# Sample input file for scraping
+# Format: query, location, country, [optional: email domain]
+jobs, New York, USA
